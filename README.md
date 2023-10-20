@@ -19,7 +19,7 @@ Este repositorio es sobre una actividad de la asignatura de Despliegue, con la c
 
 7. **Markdown/README.md**
 
-8. **Merge Fast-Formward**
+8. **Merge Fast-Formward / Merge No Fast-Froward**
 
 9. **.gitignore**
 
