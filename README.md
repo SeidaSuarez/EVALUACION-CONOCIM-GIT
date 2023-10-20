@@ -1,6 +1,5 @@
 # EVALUACION-CONOCIM-GIT
-Este repositorio es sobre una actividad de la asignatura de Despliegue.
-Con la cual se ha aprendido bastante sobre git y github.
+Este repositorio es sobre una actividad de la asignatura de Despliegue, con la cual se ha aprendido bastante sobre git y github.
 
 ## Durante la actividad se han tratado sobre los siguientes temas:
 
