@@ -1,0 +1,52 @@
+# Ignorar archivos de configuración para sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos generados por el sistema
+*.log
+*.swp
+*.tmp
+
+# Ignorar archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Ignorar dependencias y módulos
+node_modules/
+bower_components/
+
+# Ignorar archivos de construcción y salida
+dist/
+build/
+
+# Ignorar archivos de entornos de desarrollo
+.env
+.env.local
+.env.*.local
+
+# Ignorar archivos específicos de lenguajes de programación
+*.pyc
+*.class
+
+# Ignorar archivos de registro y directorios
+log/
+logs/
+
+# Ignorar archivos de configuración específicos del proyecto
+config.js
+config.local.js
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+
+# Ignorar archivos específicos de un proyecto web
+/node_modules
+/public
+/storage
+/vendor
+
+# Ignorar archivos de configuración de Laravel
+.env.homestead
+.env.production
+.env.testing
